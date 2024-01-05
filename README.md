@@ -54,15 +54,15 @@ This project successfully integrates imitation learning with Model Predictive Co
 
 ### Sharp Turns
 
-![Sharp Turns](link_to_sharp_turns_image)
+![Sharp Turns](outputs/sharp_turns.mp4)
 
 ### MPC Output - Scene 1
 
-![MPC Output Scene 1](link_to_mpc_output_scene_1_image)
+![MPC Output Scene 1](outputs/MPC_output_scenerio_1.mkv)
 
 ### MPC Output - Scene 2
 
-![MPC Output Scene 2](link_to_mpc_output_scene_2_image)
+![MPC Output Scene 2](outputs/MPC_scenerio_2.mkv)
 
 *For detailed results and testing videos, refer to the [Supplementary Material](link_to_supplementary_material).*
 
