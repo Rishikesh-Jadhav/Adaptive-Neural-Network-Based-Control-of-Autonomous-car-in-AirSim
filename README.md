@@ -69,11 +69,8 @@ This project successfully integrates imitation learning with Model Predictive Co
 
 ## How to Use
 
+### Environment Setup
 1. Clone the repository.
-2. Install dependencies using `requirements.txt`.
-
-## Environment Setup
-
 1. [Install Anaconda](https://conda.io/docs/user-guide/install/index.html) with Python 3.5 or higher.
 2. [Install CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/Setup-CNTK-on-your-machine) or [install Tensorflow](https://www.tensorflow.org/install/install_windows).
 3. [Install h5py](http://docs.h5py.org/en/latest/build.html).
@@ -90,7 +87,7 @@ This project successfully integrates imitation learning with Model Predictive Co
     * numpy
     * scipy
 
-## Running the package 
+### Running the package 
 
 1. To run the package and create waypoints for the Model predictive controller, run `python waypoints.py` and control the car manually to make it follow complex and straight paths.
 2. Run `python client_controller.py` to run the Model predictive controller. Start recording while this command runs to collect the dataset.
@@ -98,7 +95,7 @@ This project successfully integrates imitation learning with Model Predictive Co
 4. Open `TrainModel.ipynb` and run all the cells to train the model. Modify the Region of Interest and various hyperparameters according to the dataset size and needs.
 5. Run `drive_model.py` to test the model.
 
-## References
+### References
 
 1. Airsim: https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning
 2. Model predictive controller: https://github.com/asap-report/carla/tree/racetrack/PythonClient/racetrack 
