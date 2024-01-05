@@ -16,13 +16,13 @@ The project employs a systematic approach to integrate imitation learning enhanc
 
 ## Key Features
 
-- **Simulation Environment:** Utilizes the AirSim simulator for autonomous vehicle control simulation.
+- **Simulation Environment:** Utilized the AirSim simulator for autonomous vehicle control simulation.
   
-- **Data Collection:** Gathers sensor data from the simulator, including front-facing camera images and state variables like steering, throttle, speed, and brake.
+- **Data Collection:** Gathered sensor data from the simulator, including front-facing camera images and state variables like steering, throttle, speed, and brake.
 
-- **Neural Network Training:** Implements a multi-layered neural network architecture suitable for control tasks, providing a jittery-free output.
+- **Neural Network Training:** Implemented a multi-layered neural network architecture suitable for control tasks, providing a jittery-free output.
 
-- **Evaluation Metrics:** Assesses model performance using Mean Squared Error (MSE) and qualitative indicators for real-world scenarios.
+- **Evaluation Metrics:** Assessed model performance using Mean Squared Error (MSE) and qualitative indicators for real-world scenarios.
 
 ## Methodology
 
@@ -30,7 +30,7 @@ The project employs a systematic approach to augment conventional PID and MPC co
 
 ## Experiments
 
-- **Data Collection Strategies:** Explores data collection using keyboard inputs, LIDAR-based obstacle detection, and waypoint-driven scenarios with PID and MPC controllers.
+- **Data Collection Strategies:** Explored data collection using LIDAR-based obstacle detection, and waypoint-driven scenarios with PID and MPC controllers.
 
    Data Collected: https://drive.google.com/drive/folders/1_nsHW8zgRbLLXc5W6bpPYwH0OgZFlNOx
 
@@ -71,7 +71,6 @@ This project successfully integrates imitation learning with Model Predictive Co
 
 1. Clone the repository.
 2. Install dependencies using `requirements.txt`.
-3. Follow instructions in the [documentation](link_to_documentation) for setup and usage.
 
 ## Environment Setup
 
