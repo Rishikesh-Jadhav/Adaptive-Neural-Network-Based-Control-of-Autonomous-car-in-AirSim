@@ -48,7 +48,7 @@ This project successfully integrates imitation learning with Model Predictive Co
 
 ## Testing Results
 
-## Testing Results
+### Click to watch the videos
 
 ### Gradual Turns
 
