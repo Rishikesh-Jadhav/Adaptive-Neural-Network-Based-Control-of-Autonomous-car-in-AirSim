@@ -1,6 +1,6 @@
 # Adaptive-Neural-Network-Based-Control-in-AirSim-Simulator
 
-![Airsim Environment](Package/thumbnail.png)
+<img src="Package/thumbnail.png" alt="Airsim Environment" width="100%">
 
 ## Overview
 
