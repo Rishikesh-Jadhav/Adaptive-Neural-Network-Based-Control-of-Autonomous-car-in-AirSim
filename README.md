@@ -32,7 +32,7 @@ The project employs a systematic approach to augment conventional PID and MPC co
 
 - **Data Collection Strategies:** Explores data collection using keyboard inputs, LIDAR-based obstacle detection, and waypoint-driven scenarios with PID and MPC controllers.
 
-  -Data Collected: https://drive.google.com/drive/folders/1_nsHW8zgRbLLXc5W6bpPYwH0OgZFlNOx
+   Data Collected: https://drive.google.com/drive/folders/1_nsHW8zgRbLLXc5W6bpPYwH0OgZFlNOx
 
 - **Fine-Tuning and Optimization:** Experimentation with dropout values, ROI selection, and optimization using the Nadam optimizer to enhance model performance.
 
