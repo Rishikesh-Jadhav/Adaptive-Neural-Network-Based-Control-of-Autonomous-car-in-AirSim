@@ -50,19 +50,19 @@ This project successfully integrates imitation learning with Model Predictive Co
 
 ### Gradual Turns
 
-[Click to watch the demo video](outputs/Gradual_turns.mp4)
+[Click to watch the demo video](https://youtu.be/fY8KmGNrRWA)
 
 ### Sharp Turns
 
-![Sharp Turns](outputs/sharp_turns.mp4)
+![Sharp Turns](https://youtu.be/I7ccYnLa4MY)
 
 ### MPC Output - Scene 1
 
-![MPC Output Scene 1](outputs/MPC_output_scenerio_1.mkv)
+![MPC Output Scene 1](https://youtu.be/vMtDc_j6Wno)
 
 ### MPC Output - Scene 2
 
-![MPC Output Scene 2](outputs/MPC_scenerio_2.mkv)
+![MPC Output Scene 2](https://youtu.be/bGjK_GMijDw)
 
 *For detailed results and testing videos, refer to the [Supplementary Material](link_to_supplementary_material).*
 
