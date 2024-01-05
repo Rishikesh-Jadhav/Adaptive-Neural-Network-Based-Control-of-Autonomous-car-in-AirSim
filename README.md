@@ -50,7 +50,7 @@ This project successfully integrates imitation learning with Model Predictive Co
 
 ### Gradual Turns
 
-![Gradual Turns](link_to_gradual_turns_image)
+![Gradual Turns](outputs/Gradual_turns.mp4)
 
 ### Sharp Turns
 
