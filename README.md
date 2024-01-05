@@ -1,5 +1,7 @@
 # Adaptive-Neural-Network-Based-Control-in-AirSim-Simulator
 
+![Airsim Environment](Package/thumbnail.png)
+
 ## Overview
 
 This project focuses on enhancing autonomous vehicle control using Neural Network-Based Control in the AirSim simulator. The primary goal is to improve steering inputs for the vehicle by augmenting conventional PID and Model Predictive Controller (MPC) approaches with adaptive multi-layered neural networks. The project showcases a method that imitates the behavior of PID or MPC controllers rather than human inputs, resulting in a more robust and bias-free model.
