@@ -32,6 +32,8 @@ The project employs a systematic approach to augment conventional PID and MPC co
 
 - **Data Collection Strategies:** Explores data collection using keyboard inputs, LIDAR-based obstacle detection, and waypoint-driven scenarios with PID and MPC controllers.
 
+Data Collected: https://drive.google.com/drive/folders/1_nsHW8zgRbLLXc5W6bpPYwH0OgZFlNOx
+
 - **Fine-Tuning and Optimization:** Experimentation with dropout values, ROI selection, and optimization using the Nadam optimizer to enhance model performance.
 
 ## Limitations
@@ -96,6 +98,7 @@ This project successfully integrates imitation learning with Model Predictive Co
 4. Open `TrainModel.ipynb` and run all the cells to train the model. Modify the Region of Interest and various hyperparameters according to the dataset size and needs.
 5. Run `drive_model.py` to test the model.
 
-## Acknowledgments
+## References
 
-We acknowledge the support and resources provided by [institution/university].
+1. Airsim: https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning
+2. Model predictive controller: https://github.com/asap-report/carla/tree/racetrack/PythonClient/racetrack 
